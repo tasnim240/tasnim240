@@ -44,17 +44,14 @@
 
 
 
-<div align="center">
-
-🌸 *Here is a flower for you for visiting my profile!* 🌸  
-<small>Wishing you a lovely day ✨</small>
-
-</div>
-
 🍼 Just a baby coder taking tiny baby steps in software engineering.
 
 👩‍🍳 Happiest when cooking good food or planning random travel escapes.
 
-📚 Forced to study and survive engineering while dreaming of vacations but born to cook good food and sleep 10 hours
+📚 Forced to study and survive engineering while dreaming of vacations, but born to cook good food and sleep 10 hours.
 
 ✈️ Mentally on a flight to the mountains, physically stuck in an engineering lab.
+
+🌸 Here is a flower for you for visiting my profile! 🌸
+
+Wishing you a lovely day ✨
