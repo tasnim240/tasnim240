@@ -8,24 +8,16 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=3200&pause=1200&color=F472B6&center=true&vCenter=true&width=450&lines=Software+Engineering+Student+%F0%9F%8C%B8;Disappearing+silently+%F0%9F%A4%8D" alt="Typing Text" />
 </p>
 
-<!-- Social & Contact Pill Badges -->
+<!-- Animated Mail Typing Badge -->
 <p align="center">
   <a href="mailto:maliha24755@gmail.com">
-    <img src="https://img.shields.io/badge/💌_Personal_Mail-maliha24755%40gmail.com-ffb8d2?style=for-the-badge&logo=gmail&logoColor=white&labelColor=352636" />
-  </a>
-  &nbsp;
-  <a href="mailto:malihatasnim27@iut-dhaka.edu">
-    <img src="https://img.shields.io/badge/🎓_Academic_Mail-malihatasnim27%40iut--dhaka.edu-f472b6?style=for-the-badge&logo=gmail&logoColor=white&labelColor=352636" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3200&pause=1000&color=F472B6&background=2B1E2A&center=true&vCenter=true&width=470&lines=💌+Personal+Mail%3A+maliha24755%40gmail.com;🎓+Academic+Mail%3A+malihatasnim27%40iut-dhaka.edu" alt="Mail Typing" />
   </a>
 </p>
 
-<!-- Soft Aesthetic Status Badges -->
+<!-- Animated Info & Location Typing Badge -->
 <p align="center">
-  <img src="https://img.shields.io/badge/📍_Location-Uttara%2C_Dhaka%2C_Bangladesh-ffd6e8?style=flat&labelColor=2b1e2a&color=ffb8d2" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/🏛️_University-Islamic_University_of_Technology-ffd6e8?style=flat&labelColor=2b1e2a&color=ffb8d2" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/✨_Status-Building_&_Learning-ffd6e8?style=flat&labelColor=2b1e2a&color=f472b6" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=3500&pause=1200&color=FFB8D2&background=2B1E2A&center=true&vCenter=true&width=470&lines=📍+Location%3A+Uttara%2C+Dhaka%2C+Bangladesh;🏛️+University%3A+Islamic+University+of+Technology;✨+Status%3A+Building+%26+Learning" alt="Status Typing" />
 </p>
 
 </div>
