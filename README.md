@@ -41,3 +41,12 @@
 │  COLLEGE      Rajuk Uttara Model College (2016 - 2023)                      │
 │  LOCATION     Uttara, Dhaka, Bangladesh                                     │
 ╰─────────────────────────────────────────────────────────────────────────────╯
+
+
+🍼 Just a baby coder taking tiny baby steps in software engineering.
+
+👩‍🍳 Happiest when cooking good food or planning random travel escapes.
+
+📚 Forced to study and survive engineering while dreaming of vacations but born to cook good food and sleep 10 hours
+
+✈️ Mentally on a flight to the mountains, physically stuck in an engineering lab.
