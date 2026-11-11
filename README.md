@@ -1,7 +1,6 @@
 <div align="center">
 
-<!-- Girlie Pink Wavy Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,24,30&height=220&section=header&text=Maliha%20Tasnim%20Khan&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Islamic%20University%20of%20Technology%20(IUT-OIC)&descAlignY=58&descSize=17" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=932938&height=220&section=header&text=Maliha%20Tasnim%20Khan&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Islamic%20University%20of%20Technology%20(IUT-OIC)&descAlignY=58&descSize=17" width="100%"/>
 
 <!-- Headline Typing Animation -->
 <p align="center">
