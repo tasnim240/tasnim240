@@ -8,21 +8,25 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=3200&pause=1200&color=F472B6&center=true&vCenter=true&width=450&lines=Software+Engineering+Student+%F0%9F%8C%B8;Disappearing+silently+%F0%9F%A4%8D" alt="Typing Text" />
 </p>
 
-<!-- Cute Mail Badges -->
-<a href="mailto:maliha24755@gmail.com">
-  <img src="https://img.shields.io/badge/💌%20Get%20in%20touch-maliha24755%40gmail.com-ffb6c1?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-&nbsp;
-<a href="mailto:malihatasnim27@iut-dhaka.edu">
-  <img src="https://img.shields.io/badge/🎓%20Academic%20Mail-IUT%20Mail-f472b6?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+<!-- Social & Contact Pill Badges -->
+<p align="center">
+  <a href="mailto:maliha24755@gmail.com">
+    <img src="https://img.shields.io/badge/💌_Personal_Mail-maliha24755%40gmail.com-ffb8d2?style=for-the-badge&logo=gmail&logoColor=white&labelColor=352636" />
+  </a>
+  &nbsp;
+  <a href="mailto:malihatasnim27@iut-dhaka.edu">
+    <img src="https://img.shields.io/badge/🎓_Academic_Mail-malihatasnim27%40iut--dhaka.edu-f472b6?style=for-the-badge&logo=gmail&logoColor=white&labelColor=352636" />
+  </a>
+</p>
 
-<br/><br/>
-
-<!-- Status Badges -->
-<img src="https://img.shields.io/badge/📍%20Location-Uttara%2C%20Dhaka%2C%20Bangladesh-pink?style=flat-square" />
-<img src="https://img.shields.io/badge/🏛️%20University-Islamic%20University%20of%20Technology-fbcfe8?style=flat-square" />
-<img src="https://img.shields.io/badge/✨%20Status-Building%20%26%20Learning-e879f9?style=flat-square" />
+<!-- Soft Aesthetic Status Badges -->
+<p align="center">
+  <img src="https://img.shields.io/badge/📍_Location-Uttara%2C_Dhaka%2C_Bangladesh-ffd6e8?style=flat&labelColor=2b1e2a&color=ffb8d2" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/🏛️_University-Islamic_University_of_Technology-ffd6e8?style=flat&labelColor=2b1e2a&color=ffb8d2" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/✨_Status-Building_&_Learning-ffd6e8?style=flat&labelColor=2b1e2a&color=f472b6" />
+</p>
 
 </div>
 
