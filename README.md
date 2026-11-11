@@ -43,6 +43,15 @@
 ╰─────────────────────────────────────────────────────────────────────────────╯
 
 
+---
+
+<div align="center">
+
+🌸 *Here is a flower for you for visiting my profile!* 🌸  
+<small>Wishing you a lovely day ✨</small>
+
+</div>
+
 🍼 Just a baby coder taking tiny baby steps in software engineering.
 
 👩‍🍳 Happiest when cooking good food or planning random travel escapes.
